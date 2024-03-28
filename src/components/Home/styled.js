@@ -12,7 +12,7 @@ export const Heading = styled.h1`
 `;
 
 export const MainContainer = styled.div`
-  width: 80%;
+  width: 100%;
   height: 80%;
   @media screen and (max-width: 768px) {
     width: 80%;
