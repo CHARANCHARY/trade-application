@@ -125,7 +125,7 @@ function PopulationGraph() {
     <MainContainer>
       <Heading>Population Graph</Heading>
       <Button onClick={handleClick}>Change to {btnText} Chart</Button>
-      <canvas id="populationChart" style={{ width: '60px', height: '160px' }}></canvas>
+      <canvas id="populationChart" style={{ width: '60px', height: '100px' }}></canvas>
     </MainContainer>
   );
 }
